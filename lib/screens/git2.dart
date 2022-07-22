@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:cupertino_icons/cupertino_icons.dart';
 class Git2 extends StatefulWidget {
 
 
@@ -11,7 +11,7 @@ class _Git2State extends State<Git2> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text('hello'),
+      child: Text('hel'),
     );
   }
 }
