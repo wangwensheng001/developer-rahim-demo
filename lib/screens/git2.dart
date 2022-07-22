@@ -19,21 +19,7 @@ import 'package:active_ecommerce_flutter/custom/toast_component.dart';
 import 'package:toast/toast.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-class Git2 extends StatefulWidget {
 
-
-  @override
-  State<Git2> createState() => _Git2State();
-}
-
-class _Git2State extends State<Git2> {
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      child: Text('hello'),
-    );
-  }
-}
 
 
 class Profile extends StatefulWidget {
